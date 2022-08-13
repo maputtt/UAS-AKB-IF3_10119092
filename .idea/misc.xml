@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Semster 6/SULITTTTT/app/src/main/res/drawable-v24/bg_category.xml" value="0.1345" />
+        <entry key="..\:/Semster 6/SULITTTTT/app/src/main/res/drawable-v24/bg_spinner.xml" value="0.1345" />
+        <entry key="..\:/Semster 6/SULITTTTT/app/src/main/res/drawable-v24/color_state.xml" value="0.1345" />
+        <entry key="..\:/Semster 6/SULITTTTT/app/src/main/res/drawable-v24/custom_input.xml" value="0.1345" />
+        <entry key="..\:/Semster 6/SULITTTTT/app/src/main/res/drawable-v24/ic_baseline_power_settings_new_24.xml" value="0.1345" />
+        <entry key="..\:/Semster 6/SULITTTTT/app/src/main/res/drawable-v24/ic_search.xml" value="0.1345" />
+        <entry key="..\:/Semster 6/SULITTTTT/app/src/main/res/drawable-v24/rounded_corner.xml" value="0.1345" />
+        <entry key="..\:/Semster 6/SULITTTTT/app/src/main/res/drawable/dot.xml" value="0.1345" />
+        <entry key="..\:/Semster 6/SULITTTTT/app/src/main/res/drawable/ic_search.xml" value="0.1345" />
+        <entry key="..\:/Semster 6/SULITTTTT/app/src/main/res/drawable/item_selector.xml" value="0.1345" />
+        <entry key="..\:/Semster 6/SULITTTTT/app/src/main/res/drawable/radius.xml" value="0.1345" />
+        <entry key="..\:/Semster 6/SULITTTTT/app/src/main/res/drawable/radius2.xml" value="0.1345" />
+        <entry key="..\:/Semster 6/SULITTTTT/app/src/main/res/drawable/round_corner.xml" value="0.1345" />
+        <entry key="..\:/Semster 6/SULITTTTT/app/src/main/res/layout/activity_add_note.xml" value="0.20471014492753623" />
+        <entry key="..\:/Semster 6/SULITTTTT/app/src/main/res/layout/activity_create.xml" value="0.20471014492753623" />
+        <entry key="..\:/Semster 6/SULITTTTT/app/src/main/res/layout/activity_detail.xml" value="0.20471014492753623" />
+        <entry key="..\:/Semster 6/SULITTTTT/app/src/main/res/layout/activity_details.xml" value="0.20471014492753623" />
+        <entry key="..\:/Semster 6/SULITTTTT/app/src/main/res/layout/activity_edit.xml" value="0.20471014492753623" />
+        <entry key="..\:/Semster 6/SULITTTTT/app/src/main/res/layout/activity_forgot_pass.xml" value="0.20471014492753623" />
+        <entry key="..\:/Semster 6/SULITTTTT/app/src/main/res/layout/activity_into.xml" value="0.20471014492753623" />
+        <entry key="..\:/Semster 6/SULITTTTT/app/src/main/res/layout/activity_intro.xml" value="0.20471014492753623" />
+        <entry key="..\:/Semster 6/SULITTTTT/app/src/main/res/layout/activity_login.xml" value="0.20471014492753623" />
+        <entry key="..\:/Semster 6/SULITTTTT/app/src/main/res/layout/activity_main.xml" value="0.20471014492753623" />
+        <entry key="..\:/Semster 6/SULITTTTT/app/src/main/res/layout/activity_register.xml" value="0.20471014492753623" />
+        <entry key="..\:/Semster 6/SULITTTTT/app/src/main/res/layout/activity_slider.xml" value="0.20471014492753623" />
+        <entry key="..\:/Semster 6/SULITTTTT/app/src/main/res/layout/activity_splash_screen.xml" value="0.20471014492753623" />
+        <entry key="..\:/Semster 6/SULITTTTT/app/src/main/res/layout/activity_update.xml" value="0.20471014492753623" />
+        <entry key="..\:/Semster 6/SULITTTTT/app/src/main/res/layout/content_details.xml" value="0.20471014492753623" />
+        <entry key="..\:/Semster 6/SULITTTTT/app/src/main/res/layout/custom_list_view.xml" value="0.20471014492753623" />
+        <entry key="..\:/Semster 6/SULITTTTT/app/src/main/res/layout/fragment_add.xml" value="0.20471014492753623" />
+        <entry key="..\:/Semster 6/SULITTTTT/app/src/main/res/layout/fragment_home.xml" value="0.20471014492753623" />
+        <entry key="..\:/Semster 6/SULITTTTT/app/src/main/res/layout/fragment_info.xml" value="0.20471014492753623" />
+        <entry key="..\:/Semster 6/SULITTTTT/app/src/main/res/layout/fragment_logout.xml" value="0.20471014492753623" />
+        <entry key="..\:/Semster 6/SULITTTTT/app/src/main/res/layout/fragment_profile.xml" value="0.20471014492753623" />
+        <entry key="..\:/Semster 6/SULITTTTT/app/src/main/res/layout/fragment_search.xml" value="0.20471014492753623" />
+        <entry key="..\:/Semster 6/SULITTTTT/app/src/main/res/layout/item_intro.xml" value="0.20471014492753623" />
+        <entry key="..\:/Semster 6/SULITTTTT/app/src/main/res/layout/slider1.xml" value="0.20471014492753623" />
+        <entry key="..\:/Semster 6/SULITTTTT/app/src/main/res/layout/slider2.xml" value="0.2" />
+        <entry key="..\:/Semster 6/SULITTTTT/app/src/main/res/layout/slider3.xml" value="0.20471014492753623" />
+        <entry key="..\:/Semster 6/SULITTTTT/app/src/main/res/layout/slider4.xml" value="0.20471014492753623" />
+        <entry key="..\:/Semster 6/SULITTTTT/app/src/main/res/menu/bottom_menu.xml" value="0.27447916666666666" />
+        <entry key="..\:/Semster 6/SULITTTTT/app/src/main/res/menu/item_menu.xml" value="0.27447916666666666" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
